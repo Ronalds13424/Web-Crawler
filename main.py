@@ -34,7 +34,7 @@ def crawl_website(start_url, max_depth=3):
     return visited_urls
 
 if __name__ == "__main__":
-    start_url = "https://gglvxd.eu.org"
+    start_url = "https://ronalds.ggradio.pro"
     max_depth = 3
 
     crawled_urls = crawl_website(start_url, max_depth)
