@@ -1,4 +1,4 @@
-Simple Url Crawler By ME!
+SIMPLE URL CRAWLER
 
 How to setup:
 
